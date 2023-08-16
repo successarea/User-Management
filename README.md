@@ -1,5 +1,6 @@
 # User-Management
-## User-Management project is developed by Pure PHP
+## This User-Management project is developed by Pure PHP
+### Features
 
 - includes user dashboard and admin dashboard.
 - includes Login Form and Registration Form.
